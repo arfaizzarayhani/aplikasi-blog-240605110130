@@ -1,9 +1,10 @@
 # Aplikasi Blog CMS
 
-## Informasi Pengembang
+## Informasi Mahasiswa
 
 - **Nama Lengkap:** Arfa'izza Rayhani Azzahra
 - **NIM:** 240605110130
+- **Kelas:** Web Programming C
 
 ## Deskripsi Aplikasi
 
